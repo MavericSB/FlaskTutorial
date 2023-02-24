@@ -16,6 +16,12 @@ posts = [
         "content": "Second post content",
         "date_posted": "July 1, 2022",
     },
+    {
+        "author": "Yusef Juma",
+        "title": "Blog Post 3",
+        "content": "Yusef's Story",
+        "date_posted": "Feb 24 2023",
+    },
 ]
 
 
